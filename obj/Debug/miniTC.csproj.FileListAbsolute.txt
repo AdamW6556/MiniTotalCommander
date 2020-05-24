@@ -1,0 +1,90 @@
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\bin\Debug\miniTC.exe.config
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\bin\Debug\miniTC.exe
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\bin\Debug\miniTC.pdb
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\miniTC.csprojAssemblyReference.cache
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\MainWindow.g.cs
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\App.g.cs
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\miniTC_MarkupCompile.cache
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\miniTC_MarkupCompile.lref
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\MainWindow.baml
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\miniTC.g.resources
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\miniTC.Properties.Resources.resources
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\miniTC.csproj.GenerateResource.cache
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\miniTC.csproj.CoreCompileInputs.cache
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\miniTC.exe
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\miniTC.pdb
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\miniTC.csproj.CopyComplete
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\Controls\TCPanel.g.cs
+C:\Users\matih\Documents\semestr4\programowanie\miniTC\obj\Debug\Controls\TCPanel.baml
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\bin\Debug\miniTC.exe.config
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\bin\Debug\miniTC.exe
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\bin\Debug\miniTC.pdb
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\miniTC.csprojAssemblyReference.cache
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\Controls\TCPanel.g.cs
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\MainWindow.g.cs
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\App.g.cs
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\miniTC_MarkupCompile.cache
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\miniTC_MarkupCompile.lref
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\Controls\TCPanel.baml
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\MainWindow.baml
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\miniTC.g.resources
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\miniTC.Properties.Resources.resources
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\miniTC.csproj.GenerateResource.cache
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\miniTC.csproj.CoreCompileInputs.cache
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\miniTC.csproj.CopyComplete
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\miniTC.exe
+C:\Users\AdamW\Downloads\miniTC-master (8)\miniTC-master\obj\Debug\miniTC.pdb
+C:\Users\AdamW\Desktop\Nowy folder (2)\bin\Debug\miniTC.exe.config
+C:\Users\AdamW\Desktop\Nowy folder (2)\bin\Debug\miniTC.exe
+C:\Users\AdamW\Desktop\Nowy folder (2)\bin\Debug\miniTC.pdb
+C:\Users\AdamW\Desktop\Nowy folder (2)\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\AdamW\Desktop\Nowy folder (2)\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\AdamW\Desktop\Nowy folder (2)\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\AdamW\Desktop\Nowy folder (2)\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\miniTC.csprojAssemblyReference.cache
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\Controls\TCPanel.g.cs
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\MainWindow.g.cs
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\App.g.cs
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\miniTC_MarkupCompile.cache
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\miniTC_MarkupCompile.lref
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\Controls\TCPanel.baml
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\MainWindow.baml
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\miniTC.g.resources
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\miniTC.Properties.Resources.resources
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\miniTC.csproj.GenerateResource.cache
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\miniTC.csproj.CoreCompileInputs.cache
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\miniTC.csproj.CopyComplete
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\miniTC.exe
+C:\Users\AdamW\Desktop\Nowy folder (2)\obj\Debug\miniTC.pdb
+C:\Users\AdamW\Desktop\miniTC-projekt\bin\Debug\miniTC.exe.config
+C:\Users\AdamW\Desktop\miniTC-projekt\bin\Debug\miniTC.exe
+C:\Users\AdamW\Desktop\miniTC-projekt\bin\Debug\miniTC.pdb
+C:\Users\AdamW\Desktop\miniTC-projekt\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\AdamW\Desktop\miniTC-projekt\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\miniTC.csprojAssemblyReference.cache
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\Controls\TCPanel.g.cs
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\MainWindow.g.cs
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\App.g.cs
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\miniTC_MarkupCompile.cache
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\miniTC_MarkupCompile.lref
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\Controls\TCPanel.baml
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\MainWindow.baml
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\miniTC.g.resources
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\miniTC.Properties.Resources.resources
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\miniTC.csproj.GenerateResource.cache
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\miniTC.csproj.CoreCompileInputs.cache
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\miniTC.csproj.CopyComplete
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\miniTC.exe
+C:\Users\AdamW\Desktop\miniTC-projekt\obj\Debug\miniTC.pdb

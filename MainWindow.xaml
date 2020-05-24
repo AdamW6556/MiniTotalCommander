@@ -1,0 +1,89 @@
+﻿<Window x:Class="miniTC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:re="clr-namespace:miniTC.Properties"
+        xmlns:local="clr-namespace:miniTC"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:mvvm="clr-namespace:miniTC.ViewModel"      
+        xmlns:controls="clr-namespace:miniTC.Controls"
+        mc:Ignorable="d"
+        Title="MiniTC"       
+        Height="800" 
+        Width="800"       
+        MinWidth="600"
+        MinHeight="600" ResizeMode="NoResize">
+
+    <Window.DataContext>
+        <mvvm:Minitcwidokmodelu />
+    </Window.DataContext>
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="7"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition  />
+                <ColumnDefinition  />
+            </Grid.ColumnDefinitions>
+
+            <controls:TCPanel 
+                Grid.Column="0"
+                Sciezkaaktualna="{Binding Path=Sciezkaod, Mode=TwoWay}"
+                
+                Comboboxwybrany2="{Binding Path=Lewalistadyskow}"
+                
+                Comboboxlista="{Binding Path=Dyskistronalewa}"
+                
+                Combobozmianaopcji="{Binding Path=Zmianastronylewej}"
+                
+                Comboboxwybranyitem="{Binding Path=Sciezkaodlewej, Mode=TwoWay}"
+                
+                Zawartoscsciezki="{Binding Path=Listaplikowzlewej, Mode=TwoWay}"
+                
+                Wlasciwoscwybrana="{Binding Path=Wybranawartosclewa, Mode=TwoWay}"
+                
+                Podwojnekliknieciemyszki="{Binding Path=Nowykatalogl}"
+                
+            />
+
+            <controls:TCPanel 
+                Grid.Column="1"
+                Sciezkaaktualna="{Binding Path=Sciezkado, Mode=TwoWay}"
+                
+                Comboboxwybrany2="{Binding Path=Prawalistadyskow}"
+                
+                Comboboxlista="{Binding Path=Dyskistronaprawa}"
+                
+                Combobozmianaopcji="{Binding Path=Zmianastronyprawej}"
+                
+                Comboboxwybranyitem="{Binding Path=Sciezkaodprawej, Mode=TwoWay}"
+                
+                Zawartoscsciezki="{Binding Path=Listaplikowzprawej, Mode=TwoWay}"
+                
+                Wlasciwoscwybrana="{Binding Path=Wybranawartoscprawa, Mode=TwoWay}"
+                
+                Podwojnekliknieciemyszki="{Binding Path=Nowykatalogr}"
+                
+            />
+
+        </Grid>
+
+        <Button Grid.Row="1"
+                Content="{Binding Source={x:Static re:Resources.CopyText}}"
+                Width="75"
+                Height="50"
+                VerticalAlignment="Center" HorizontalAlignment="Center"
+                
+                Command="{Binding Path=Kopiujplik}"
+                />
+
+    </Grid>
+</Window>
